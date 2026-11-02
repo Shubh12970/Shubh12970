@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050816,50:0A192F,100:0077FF&text=SHUBHRA%20JYOTHSNA&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPMENT%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=68&animation=fadeIn" />
 
