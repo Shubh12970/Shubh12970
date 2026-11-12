@@ -99,7 +99,7 @@ lang = {}
 for r in base["repositories"]["nodes"]:
     for e in r["languages"]["edges"]: lang[e["node"]["name"]] = lang.get(e["node"]["name"], 0) + e["size"]
 top = sorted(lang.items(), key=lambda x: -x[1])[:6]; tot = sum(v for _, v in lang.items()) or 1
-shades = ["#0077FF", "#1A8CFF", "#00A3FF", "#3DB4FF", "#6CC7FF", "#9ADAFF"]
+shades = ["#3D2BC8", "#00E5FF", "#0061F2", "#6E9FFF", "#A9D9FF", "#DCEEFF"]  # approved distinct-blues palette (rank order)
 b = t(25, 32, "Most Used Languages", 15, ACC, 700)
 x = 25; bw = 445
 b += f'<clipPath id="c"><rect x="25" y="46" width="{bw}" height="8" rx="4"/></clipPath><g clip-path="url(#c)">'
