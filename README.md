@@ -40,21 +40,22 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 <tr>
 <td width="50%" valign="top">
 
-<h3>AI Student Productivity Dashboard</h3>
+<h3>Student Productivity Dashboard</h3>
 
-<a href="https://github.com/Shubh12970/AI-Student-Productivity-Dashboard">
-  <img src="assets/badges/explore-repo.svg" alt="Explore AI Student Productivity Dashboard" height="30"/>
+<a href="https://github.com/Shubh12970/Student-Productivity-Dashboard">
+  <img src="assets/badges/explore-repo.svg" alt="Explore Student Productivity Dashboard" height="30"/>
 </a>
 
-An **AI-powered student productivity dashboard** built to support student productivity through a modern web application.
+A **student productivity dashboard** built to support student productivity through a modern web application.
 
 **Technology stack**
 
 - React
 - TypeScript
-- Node.js
+- Cloudflare Workers and D1
+- Clerk authentication
 
-**Project status:** In development
+**Project status:** Live demo deployed - [studyflow.2wf0w2.workers.dev](https://studyflow.2wf0w2.workers.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +75,48 @@ An **AI-powered civic engagement platform** that helps citizens report local iss
 - Local issue prioritization
 - Progress tracking
 
-**Project status:** In development
+**Project status:** Completed
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>cLopped - URL Shortener</h3>
+
+<a href="https://github.com/Shubh12970/cLopped">
+  <img src="assets/badges/explore-repo.svg" alt="Explore cLopped" height="30"/>
+</a>
+
+A **URL shortener** that turns long links into short codes, redirects visitors, and tracks clicks.
+
+**Key features**
+
+- Short codes with redirects
+- Click statistics and link expiry
+- QR codes
+- Account-based link management
+
+**Project status:** Live demo deployed - [clopped.2wf0w2.workers.dev](https://clopped.2wf0w2.workers.dev)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Riller - API Rate Limiter</h3>
+
+<a href="https://github.com/Shubh12970/Riller">
+  <img src="assets/badges/explore-repo.svg" alt="Explore Riller" height="30"/>
+</a>
+
+An **API rate limiter** that protects services from excess traffic with Express middleware and a shared request store.
+
+**Key features**
+
+- Three rate-limiting algorithms
+- Express middleware
+- Shared state with Durable Objects
+
+**Project status:** Live demo deployed - [riller.2wf0w2.workers.dev](https://riller.2wf0w2.workers.dev)
 
 </td>
 </tr>
